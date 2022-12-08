@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🤖️ Candroid TV is a TV application and environment designed to replace Google TV/Android TV in a more privacy-oriented way.
